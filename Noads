@@ -1,1 +1,98 @@
+! 2024-03-28 https://axutongxue.com   阿虚同学
+axutongxue.com###\35 8331 > div
+axutongxue.com###gouog
+axutongxue.com##div:nth-of-type(5)
 
+
+! 2024-03-28 https://www.docin.com   豆丁文档
+www.docin.com##.head_wrapper
+www.docin.com###page * > .addcomdocs-on.addcomdocs
+www.docin.com##.clear.page_crubms
+www.docin.com##.doc_header_mod
+www.docin.com##.editable_outer
+www.docin.com##.aside
+www.docin.com##.backToTop
+www.docin.com##.slideButton
+www.docin.com##.no_more_mod
+www.docin.com##.clear.tools_bar_small.reader_tools_bar_wrap
+www.docin.com###jControlDiv
+www.docin.com##*.adBox
+
+
+! 2024-03-28 https://max.book118.com    原创力文档
+max.book118.com##.header
+max.book118.com##.breadcrumb
+max.book118.com##.detail > .title
+max.book118.com##.detail > .intro
+max.book118.com##.side
+max.book118.com###sidebar
+max.book118.com##div.re.webpreview-\*
+max.book118.com##.end
+max.book118.com##.bar
+max.book118.com##.notice
+max.book118.com##.relate
+max.book118.com##.comment
+max.book118.com###footer
+max.book118.com##.read_and_download
+max.book118.com##div.re.webpreview-recommend
+max.book118.com##.expand
+max.book118.com##.reduce-re
+max.book118.com###dms-link-cleaner
+max.book118.com##.preview-app > [href="/app.html"]
+
+! 2024-03-28 https://cloud.189.cn    天翼云盘
+cloud.189.cn##.advertising-popup
+cloud.189.cn##.advertising-mask
+
+
+
+! 2024-03-28 https://pc.woozooo.com   蓝奏云
+pc.woozooo.com##[src="/img/diy-2.gif?v=2"]
+pc.woozooo.com##.app2
+www.lanzouj.com##.foot_info
+
+! 2024-03-28 https://wenku.so.com   搜文库
+wenku.so.com##.layout-header
+wenku.so.com##.wenku-detail__info
+wenku.so.com##.wenku-detail__content__slide
+wenku.so.com###wenku-detail__showdoc__flowAd
+wenku.so.com##.wenku-detail__showdoc__topPanel
+wenku.so.com##.wenku-detail__pay
+wenku.so.com##.g-flex__align-center.g-flex.vip-tip-bar
+wenku.so.com##.wenku-detail__pagination
+wenku.so.com##.g-detail-module.wenku-detail__interest
+wenku.so.com##.g-detail-module.likeQuery
+wenku.so.com##.g-detail-module.wenku-detail__hotDoc
+wenku.so.com##.wenku-page__footer
+wenku.so.com##[id^="wenku-detail__showdoc__flowAd__"]
+wenku.so.com##.wenku-detail__rightCorner
+
+
+! 2024-03-31 https://wenku.baidu.com  百度文库
+wenku.baidu.com##.card-content
+wenku.baidu.com##.tool-bar-wrap
+wenku.baidu.com##.tool-fold
+wenku.baidu.com##.el-menu.el-menu--collapse.menu-wrap
+wenku.baidu.com##.menu-foot
+wenku.baidu.com##.menu-head
+wenku.baidu.com##.search-box-inner-wrapper
+wenku.baidu.com##.menubar
+wenku.baidu.com##.no-full-screen.catalog-wrap
+wenku.baidu.com##.supernatant-exp2.supernatant-tools
+wenku.baidu.com##.quit.switch-btn
+wenku.baidu.com###app-left
+wenku.baidu.com###dms-link-cleaner
+wenku.baidu.com##.search-box-wrapper
+wenku.baidu.com##.patent-full-info.reader-topbar
+wenku.baidu.com##.edit-history-banner
+||edu-wenku.bdimg.com/v1/pc/view/NavMenu/collapse-unfold.svg$image
+
+! 2024-04-01 https://pan.baidu.com 百度网盘
+pan.baidu.com##[href^="//photo.baidu.com/"]
+pan.baidu.com##.g-clearfix.KzGbKPb
+pan.baidu.com##.wp-s-core-pan__detail-slot
+pan.baidu.com##.wp-s-aside-nav__sub
+pan.baidu.com##.wp-s-aside-nav__main-bottom
+pan.baidu.com##.nd-chat-normal
+pan.baidu.com##.web_aside_speed_view.wp-s-aside-nav__main-item.item.u-tooltip
+||pan.baidu.com/buy/ad/home$subdocument
